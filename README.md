@@ -1,0 +1,1 @@
+# techtest_artistudio
