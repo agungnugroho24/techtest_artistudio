@@ -37,4 +37,4 @@ Example website that use CMS wordpress for technical test as a part time wordpre
 15. Choose Post -> All posts
 16. Edit post
 17. Add pop up on the webpage
-18. CLick update
+18. Click update
