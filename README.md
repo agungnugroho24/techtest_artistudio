@@ -4,7 +4,7 @@ Example website that use CMS wordpress for technical test as a part time wordpre
 # Installation
 1. Clone or download repository
 2. Unzip and extract file
-3. Move to folder wp-content -> plugins
+3. Move example_cpt.zip to folder wp-content -> plugins
 4. Open wordpress Admin on browser
 5. In your WordPress admin dashboard, go to the Plugins > Add New
 6. Click on the "Upload Plugin" button.
@@ -13,11 +13,11 @@ Example website that use CMS wordpress for technical test as a part time wordpre
 
 # How to make pop up and custom field type
 Step 1: Set up the Plugin Structure
--- Create a folder for your plugin, e.g., popup-plugin.
--- Inside the folder, create the main plugin file, e.g., popup-plugin.php.
+-- Create a folder for your plugin, e.g., example_cpt.
+-- Inside the folder, create the main plugin file, e.g., example_cpt.php.
 
 Step 2: Define Custom Post Type
-In the popup-plugin.php file, register a custom post type for the popups using the WordPress register_post_type function
+In the example_cpt.php file, register a custom post type for the popups using the WordPress register_post_type function
 
 Step 3: Add Custom Fields
 Extend the custom post type to include custom fields for title, description, and page using the Advanced Custom Fields (ACF) plugin or a similar method
