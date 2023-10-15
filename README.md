@@ -1,4 +1,4 @@
-# techtest_artistudio
+# Techtest_artistudio
 Example website that use CMS wordpress for technical test as a part time wordpress developer
 
 # Installation
