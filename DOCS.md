@@ -1,4 +1,3 @@
 # Implementation
-1. Plugin pop up maker
-2. Plugin WPcode
-3. Add custom field type
+1. Custom Post Types (CPT) utilizing the Dot Framework
+2. Custom Fields for title, description, and page
